@@ -6,7 +6,8 @@ from openai import OpenAI
 load_dotenv()
 
 client = OpenAI(
-    api_key=os.getenv("OPENAI_API_KEY")
+    api_key=os.getenv("GROQ_API_KEY"),
+    base_url="https://api.groq.com/openai/v1"
 )
 
 # Usa o modelo definido no .env ou um valor padrão
@@ -17,7 +18,7 @@ response = client.chat.completions.create(
     messages=[
         {"role": "user", "content": "Qual a capital do Brasil?"}
     ],
-    store=True,
+
 )
 
 print(response.choices[0].message.content)
