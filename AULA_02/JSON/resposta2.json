@@ -1,0 +1,21 @@
+{
+  "metodo": "Revisão bibliográfica narrativa qualitativa exploratória (pesquisa de natureza qualitativa).",
+  "amostra": "Artigos científicos selecionados da literatura (bases PubMed, Scopus, SciELO, Web of Science) publicados entre 2015-2024, em português e inglês, abordandodilemas éticos da IA em saúde. O número total de artigos incluídos não é especificado.",
+  "metrica": "Análise temática qualitativa: leitura crítica e categorização temática de tópicos recorrentes (autonomia médica, responsabilidade por decisões automatizadas, explicabilidade algorítmica, equidade no acesso).",
+  "limitacoes": "O estudo não descreve explicitamente limitações; potenciais limitações incluem viés de seleção, dependência de publicações em inglês/português, ausência de dados quantitativos e possibilidade de desatualização de literatura."
+}
+--------------------------------------------------
+{
+  "metodo": "Revisão narrativa de literatura sobre riscos da escrita com IA, combinada com análise de documentos normativos e diretrizes institucionais, seguida da elaboração de um guia prático em cinco fases para uso ético, responsável e humano de IA na escrita acadêmica.",
+  "amostra": "Corpus composto por publicações acadêmicas e normativas recentes (publicações sobre IA e escrita acadêmica, artigos sobre autoria, integridade científica,políticas institucionais) identificadas nas bases de dados relevantes; não há amostra empírica de usuários ou textos.",
+  "metrica": "Critérios de avaliação incluídos no guia: planejamento humano pré-IA, escrita assistida e curadoria crítica, apropriação e reescrita autoral, verificação rigorosa de fatos, fontes e lógica argumentativa, e declaração de transparência do uso de IA; esses indicadores funcionam como métricas qualitativas para monitorar a integridade, a originalidade e a responsabilidade do trabalho.",
+  "limitacoes": "O estudo não envolve coleta ou análise de dados empíricos, o que limita a validação quantitativa do guia; a revisão narrativa pode estar sujeita a viésde seleção de literatura; a aplicabilidade prática do guia pode variar conforme o contexto institucional e a evolução das ferramentas de IA; as diretrizes normativas analisadas podem se tornar obsoletas rapidamente."
+}
+--------------------------------------------------
+{
+  "metodo": "Análise bibliométrica interdisciplinar combinada com revisão de literatura empírica e jornalística; uso de APIs de catálogos científicos para identificar publicações sobre o Twitter/X",
+  "amostra": "Corpus de trabalhos acadêmicos coletados via APIs (quantidade não especificada), complementado por reportagens jornalísticas e dados empíricos sobre algoritmos e moderação do Twitter/X",
+  "metrica": "Métricas de engajamento (likes, retweets, alcance), indicadores de qualidade de conteúdo, incidência de discurso de ódio, proliferação de bots, retirada de anunciantes, confiança dos usuários e sustentabilidade econômica da plataforma",
+  "limitacoes": "Acesso restrito a dados internos da plataforma, viés de seleção de literatura, ausência de número exato da amostra, dependência de fontes externas e interpretação subjetiva dos indicadores de moderação"
+}
+--------------------------------------------------
